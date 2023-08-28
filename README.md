@@ -15,8 +15,8 @@ NoteKeeper is a dynamic web application designed and developed using JavaScript 
 
 
 1. *Clone the repository and navigate to the project directory:*
-   $ git clone https://github.com/SayanAlam/Note-Keeper-Webapp.git
-3. *Install the required dependencies :*
+   $ git clone https://github.com/jajatisarma/react-keep-app.git
+2. *Install the required dependencies :*
    $ npm install
-4. *Start by running:* 
+3. *Start by running:* 
    $ npm start
