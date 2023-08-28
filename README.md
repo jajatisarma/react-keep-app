@@ -23,6 +23,6 @@ NoteKeeper is a dynamic web application designed and developed using JavaScript 
    $ npm install
    ```
 3. *Start by running:*
- ```
+   ```
    $ npm start
    ```
